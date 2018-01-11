@@ -1,0 +1,2 @@
+# PTSettings
+Settings for ProfitTrailer
